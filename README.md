@@ -6,7 +6,7 @@ demonstrations for ICL prompting, outperforms a 16-shot baseline by an average o
 9.94% across 16 datasets. We further introduce IterPSD, an annotation approach that refines pseudo-demonstrations iteratively, achieving up to 6.8% additional gains in classification tasks.
 
 <div align="center">
-  <img src="./img/flowchart.png" width="55%">
+  <img src="./img/flowchart.png" width="45%">
 </div>
 
 ## Setup
