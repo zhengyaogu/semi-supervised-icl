@@ -5,7 +5,9 @@ prompts select high-confidence self-generated
 demonstrations for ICL prompting, outperforms a 16-shot baseline by an average of
 9.94% across 16 datasets. We further introduce IterPSD, an annotation approach that refines pseudo-demonstrations iteratively, achieving up to 6.8% additional gains in classification tasks.
 
-![framework](./img/flowchart.png)
+<div align="center">
+  <img src="./img/flowchart.png" width="70%">
+</div>
 
 ## Setup
 ### Requirements
